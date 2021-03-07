@@ -8,4 +8,4 @@ I want to get a decent and interesting job that will allow me to develop profess
 6. [Creativia project.](https://github.com/aliaksandrow/Creativia)
 
 7. Udemy, Scrimba.com, Codewars.com, Medium.com
-8. english (high school) 
+8. english (high school)  
